@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Writer's Lifestyle]]></title>
         <description><![CDATA[The Writer's Lifestyle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.writerslifestyle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 23:12:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 03:01:01 GMT</lastBuildDate>
+        <atom:link href="http://www.writerslifestyle.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Solve your innovation challenges at IdeaConnection.com.]]></title>
+            <description><![CDATA[<article><h1>Solve your innovation challenges at IdeaConnection.com.</h1><p>IdeaConnection provides solutions to your research and development innovation challenges.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d77048f2ed6bebe9d0bcd6344ad68c8b8eb3f70.png"></article>]]></description>
+            <link>https://www.ideaconnection.com/</link>
+            <guid isPermaLink="false">2638ba81-784d-40f4-8148-b1517eb468be</guid>
+            <pubDate>Sat, 23 Apr 2016 03:00:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7478fdc-811f-4f23-b836-0df5218b9ef0.jpg">]]></description>
-            <link>undefined105ef726-bf67-4b46-89e8-1a84e1e2bd7d/index.html</link>
+            <link>http://www.writerslifestyle.com/105ef726-bf67-4b46-89e8-1a84e1e2bd7d/index.html</link>
             <guid isPermaLink="false">105ef726-bf67-4b46-89e8-1a84e1e2bd7d</guid>
             <pubDate>Wed, 17 Feb 2016 23:12:20 GMT</pubDate>
         </item>
